@@ -10,7 +10,7 @@
 .conteudo-ana{
     display: flex;
     flex-direction: column;
-    justify-content: flex-end;
+    justify-content: flex-sta;
     gap: 53px;
     padding: 10px;
 }
@@ -40,5 +40,5 @@
 }
 .ana{
     height: 637px;
-    
+
 }
