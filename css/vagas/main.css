@@ -1,0 +1,18 @@
+main{
+    display: flex;
+    flex-direction: column;
+}
+section{
+    height: 100vh;
+}
+.content-container{
+    padding: 120px 0;
+    background-color: crimson;
+}
+.jobs-container{
+    background-color: darkblue;
+}
+
+.degrade{
+    width: 100%;
+}

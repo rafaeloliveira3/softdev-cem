@@ -1,0 +1,46 @@
+body{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Mulish', sans-serif;
+    background-color: black;
+}
+
+h1{
+    color: white;
+}
+
+main{
+    flex-grow: 1;
+    background-color: brown;
+    flex-direction: column;
+}
+
+section{
+    height: 100vh;
+}
+
+.titulo{
+    display: flex;
+    flex-direction: column;
+    align-items:flex-end;
+    padding-top: 281px;
+}
+.titulo h1{
+    width: 653.55px;
+    text-align: center;
+}
+
+.quems{
+    font-size: 4.375rem;
+    align-items: center;
+}
+
+.retan{
+    height: 7px;
+    width: 653.55px;
+}
+
+.text-quems{
+    width: 652px;
+    height: 335px;
+}
