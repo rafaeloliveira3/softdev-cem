@@ -1,24 +1,25 @@
-.ana-alice{
+.leo{
     height: 637px;
-    width: 600px;
+    width: 1000px;
 }
 
-.nome-ana{
+.nome-leo{
     height: 83px;
-    width: 400px;
-    background-color: var(--claro);   border-radius: 10px;
+    width: 200px;
+    background-color: var(--mais-escuro);   border-radius: 10px;
     color: white;  
+    text-align: center;
     font-size: 5rem;
     position: relative;
- 
+
 }
 
-.texto-ana{
+.texto-leo{
     text-align: center;
     color: white;
     height: 410px;
     width: 721px;
-    background-color: var(--claro);    border-radius: 10px;
+    background-color: var(--mais-escuro);    border-radius: 10px;
     font-size: 2.5rem;
     position: relative;
 
