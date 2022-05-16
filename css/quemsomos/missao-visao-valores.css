@@ -1,0 +1,10 @@
+.main-partes{
+    display: flex;
+    flex-direction: column;
+}
+
+.partes{
+    height: 427px;
+    width: 392px;
+    background-color: khaki;
+}
