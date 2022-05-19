@@ -7,6 +7,57 @@
     gap: 60px;
 }
 
+.ba{
+    position: relative;
+    top: 398px;
+    left: 380px;
+}
+.bh{
+    position: relative;
+    top: 344px;
+    left: 392px;
+}
+.cs{
+    position: relative;
+    top: 159px;
+    left: -70px;
+}
+.cu{
+    position: relative;
+    top: 277px;
+    left: 144px;
+}
+.fo{
+    position: relative;
+    top: 102px;
+    left: 362px;
+}
+.go{
+    position: relative;
+    top: 281px;
+    left: 162px;
+}
+.pl{
+    position: relative;
+    top: 201px;
+    left: 150px;
+}
+.pa{
+    position: relative;
+    top: 507px;
+    left: 69px;
+}
+.sa{
+    position: relative;
+    top: 238px;
+    left: 221px;
+}
+.sp{
+    position: relative;
+    top: 402px;
+    left: 65px;
+}
+
 .map-content{
     display: flex;
     align-items: center;
