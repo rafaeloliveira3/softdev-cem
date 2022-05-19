@@ -2,8 +2,7 @@
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding: 500px 57px;
-    gap: 10px;
+    padding: 450px 57px;
     font-family: 'Mulish', sans-serif;
 }
 

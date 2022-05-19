@@ -45,10 +45,10 @@
     padding: 17px 3px;
     font-weight: 700;
     font-family: 'Mulish', sans-serif;
+    transition: all .6s;
 }
 
 .informacaoMVV:hover{
     background-color: var(--escuro);
-    transition: all 2s ;
 }
 

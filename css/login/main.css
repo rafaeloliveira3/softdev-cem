@@ -19,8 +19,10 @@ main{
     border-radius: 15px;
 }
 .about{
+    display: flex;
     flex-direction: column;
     color: #fff;
+    align-items: center;
 }
 
 .text-container{

@@ -3,12 +3,6 @@ body{
     display: flex;
     flex-direction: column;
 }
-
-footer{
-    position: relative;
-    bottom: 50px;
-    left: 50px;
-}
 main{
     flex-grow: 1;
     display: flex;
@@ -16,11 +10,6 @@ main{
 }
 section{
     height: 50vh;
-}
-
-.imagem-lado-direito{
-    display: flex;
-    justify-content: flex-end;
 }
 
 h2{

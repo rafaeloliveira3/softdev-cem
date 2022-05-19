@@ -1,0 +1,76 @@
+.nossaslojas{
+    height: 90vh;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    flex-direction: column;
+    gap: 60px;
+}
+
+.map-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+    width: 220vh;
+}
+.mapa{
+    background: url(../../../img/Mapa/Brasil.png);
+    height: 609.97px;
+    width: 600px;
+    border: 7px solid var(--claro);
+    border-radius: 25px;
+    gap: 20px;
+}
+
+.escritorio{
+    width: 97%;
+}
+.lojasnossas{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+}
+
+.locais{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 100px;
+}
+
+.lojasnossas{
+    color: #FFF;
+    font-size: 4rem;
+}
+
+.traco-nossas-lojas{
+    width: 1000px;
+}
+
+.tiescritorio{
+    padding-top: 5px;
+    font-size: 2rem;
+    color: #FFF;
+}
+
+.escritmapa{
+    height: 300px;
+    width: 500px;
+    background-color: var(--escuro);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:20px;
+}
+
+
+.filial:hover .locais{
+    height: 300px;
+    width: 500px;
+    background-color: var(--escuro);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

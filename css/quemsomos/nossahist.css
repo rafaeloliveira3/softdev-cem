@@ -2,8 +2,24 @@
     background-image: url(../../img/quem-somos/bg-nossahist.png);
     background-repeat: no-repeat;
     background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
 }
 
-.titulo{
-    color: aliceblue;
+.tempo-title{
+    color: #fff;
+    align-self: flex-start;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.timeline-title{
+    font-size: 4rem;
+}
+.timeline{
+    height: 550px;
+    width: 1500px;
 }

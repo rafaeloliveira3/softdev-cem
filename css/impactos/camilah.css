@@ -1,9 +1,10 @@
 .camilahS{
+    height: 10vh;
     display: flex;
     flex-direction: row-reverse;
     align-items: center;
-    padding: 500px 57px;
-    gap: 65px;
+    padding: 390px 57px;
+    gap: 70px;
     font-family: 'Mulish', sans-serif;
 }
 
@@ -11,7 +12,7 @@
     display: flex;
     flex-direction: column-reverse;
     justify-content: flex-start;
-    gap: 53px;
+    gap: 50px;
     padding: 75px;
 }
 .camilah-name-container{
